@@ -1,0 +1,140 @@
+BODY{
+    background-image: url(../img/il_794xN.1118139453_4sfs.jpg);
+    padding: 75 px 500 px;
+    text-align: center;
+}
+.ninja{
+    padding:50px;
+    height: 140px;
+    width:500 px;
+}
+.container{
+    background-color:rgb(101, 199, 101);
+    margin-left:790px;
+    margin-right:150px;
+    margin-top:80px; 
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 30px;
+
+}
+.design{
+    font-family:"Shelldon";
+    font-size:35px;
+    font-weight:70 px;
+    text-align:center;
+    color:white;
+    padding-top: 25px;
+    font-style:italic;
+    font-size:bold;
+}
+.Enter{
+    color:rgb(100, 207, 100);
+    font-size:20px;
+    margin-left:30px;
+    margin-top:28px;
+    font-size: 30px;
+    padding-bottom:4.5px;
+    border-radius:15px;
+    text-align:center;
+    font-family: Lucida Sans;
+    border-radius:6px;
+    background-color:green;
+    margin-bottom:40px; 
+    text-decoration: none;
+    height:70px;
+    width: 100px;
+    padding-left :5px;
+    padding-right:5px;
+}    
+.Second-Picture{
+    padding: 30px;
+    margin-right:50px;
+    margin-left:50px;
+    margin-top:9px;
+}
+.white-container{
+    background-color: rgb(101, 199, 101);
+    width:600px;
+    height:500px;
+    margin-left: 320px;
+    border-radius:15px;
+    margin-bottom:  12px;
+    margin-top:0px
+}
+.Motor{
+    font-family:Georgia;
+    font-size:35px;
+    font-weight:bolder;
+    color:black;
+    padding-top: 10px;
+    font-style:italic;
+    margin-top:1px;
+}
+.Generate-Random-Color{
+    font-family:Georgia;
+    font-size:15px;
+    font-weight:bold;
+    color:black;
+    font-style:italic;
+    float:left;
+    position:absolute;
+    margin-left: 70px;
+    margin-top: 2px;
+}
+.Generate{
+    margin-top:40px;
+    float:left;
+    color:white;
+    background-color:darkgreen;
+    font-family:Georgia;
+    border-radius: 7px;
+    font-size:25px;
+    margin-left: 70px;
+    padding-bottom:5px;
+    margin-top:27px;
+
+    
+  
+}
+.Generate-Specific-Color{
+    color:black;
+    font-family:Georgia;
+    font-weight: bold;
+    font-size:15px;
+    font-style:italic;
+    margin-right:300 px;
+    margin-top: 1px;
+    margin-left: 16px;
+    border-radius: 10px;
+
+}
+.color{
+    margin: 0px;
+    padding:0px;
+    border-block-end-color: black;
+     column-fill: balance;
+}
+.Show{
+    margin-top:10px;
+    margin-right:45px;
+    color:white;
+    background-color:darkgreen;
+    font-family:Georgia;
+    font-size: 18px;
+    border-radius: 7px;
+    margin-left:52px;
+    padding-bottom:4.5px;
+    position: relative;
+}
+.Reset{
+    margin-left:5px;
+    margin-right:55px;
+    color:whitesmoke;
+    background-color:darkgreen;
+    font-family:Georgia;
+    font-size: 18px;
+    padding-bottom:4.5px;
+    border-radius:7px;
+}
+
